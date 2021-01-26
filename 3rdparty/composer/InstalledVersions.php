@@ -1,5 +1,15 @@
 <?php
 
+
+
+
+
+
+
+
+
+
+
 namespace Composer;
 
 use Composer\Semver\VersionParser;
@@ -19,7 +29,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '16d351f39d4893c7053ae2e1a289dd0e4940f258',
+    'reference' => 'ced4aa5333adba1b5e76e2056760b1c3276bbe0a',
     'name' => 'oidc_login/3rdparty',
   ),
   'versions' => 
@@ -40,7 +50,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '16d351f39d4893c7053ae2e1a289dd0e4940f258',
+      'reference' => 'ced4aa5333adba1b5e76e2056760b1c3276bbe0a',
     ),
     'paragonie/random_compat' => 
     array (
@@ -59,6 +69,33 @@ private static $installed = array (
       array (
       ),
       'reference' => '497856a8d997f640b4a516062f84228a772a48a8',
+    ),
+    'symfony/polyfill-ctype' => 
+    array (
+      'pretty_version' => 'v1.22.0',
+      'version' => '1.22.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'c6c942b1ac76c82448322025e084cadc56048b4e',
+    ),
+    'symfony/polyfill-mbstring' => 
+    array (
+      'pretty_version' => 'v1.22.0',
+      'version' => '1.22.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'f377a3dd1fde44d37b9831d68dc8dea3ffd28e13',
+    ),
+    'twig/twig' => 
+    array (
+      'pretty_version' => 'v3.2.1',
+      'version' => '3.2.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'f795ca686d38530045859b0350b5352f7d63447d',
     ),
   ),
 );
